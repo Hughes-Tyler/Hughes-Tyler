@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @Hughes-Tyler
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning Python, Javascript and SQL.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in Machine Learning, Python, Artificial Intelligence, and Automation.
+
 
 <!---
 Hughes-Tyler/Hughes-Tyler is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
